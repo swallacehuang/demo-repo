@@ -2,5 +2,5 @@ Filesystem integrity test file.
 Step 1: create_file operation validated.
 Step 2: update_file mutation confirmed.
 Step 3: moved via rename/move integrity test.
-Integrity check: PASSED.
-Timestamp: 2026-06-13
+Step 4: rename/move operation expected next.
+Integrity check: PENDING.
